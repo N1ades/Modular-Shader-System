@@ -1,0 +1,21 @@
+{
+  "name": "dev.vrlabs.modularshadersystem",
+  "displayName": "VRLabs Modular Shader System",
+  "version": "1.0.3",
+  "license": "MIT",
+  "unity": "2022.3.22f1",
+  "description": "VRLabs' Modular Shader System.",
+  "author": {
+    "name": "VRLabs",
+    "email": "mail@vrlabs.dev",
+    "url": "https://vrlabs.dev"
+  },
+  "siteUrl": "https://github.com/VRLabs/ModularShaderSystem",
+  "vpmDependencies": {},
+  "legacyFolders": {},
+  "unityPackageDestinationFolder": "Assets/VRLabs/ModularShaderSystem",
+  "vccRepoCategory": "dependencies",
+  "unityPackageDestinationFolderMetas": {
+    "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8"
+  }
+}
